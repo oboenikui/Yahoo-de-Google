@@ -1,6 +1,6 @@
 # ヤフーでググる
 ## What's this?
-[Yahoo Japan](http://www.yahoo.co.jp "Yahoo Japan")のトップページの窓で検索をすると、Googleで検索してしまうChrome拡張プラグインです。
+[Yahoo Japan](http://www.yahoo.co.jp "Yahoo Japan")で検索をすると、Googleで検索してしまうChrome拡張プラグインです。
 ## Why did I make this?
 きっかけはもちろんこの質問です。  
 [ヤフーでググるにはどうしたらいいですか? - Yahoo!知恵袋](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1119787021)  
