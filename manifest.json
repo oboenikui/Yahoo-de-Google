@@ -9,8 +9,5 @@
 	    "js": ["script.js"],
 	    "run_at": "document_start"
 	}
-    ],
-    "permissions": [
-	"http://dl.dropboxusercontent.com/"
     ]
 }
