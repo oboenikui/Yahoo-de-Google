@@ -5,12 +5,9 @@
     "description": "Yahooでググるやつ",
     "content_scripts": [
 	{
-	    "matches": ["http://www.yahoo.co.jp/"],
+	    "matches": ["http://search.yahoo.co.jp/search*","http://*.search.yahoo.co.jp/search*","http://search.shopping.yahoo.co.jp/search?*"],
 	    "js": ["script.js"],
 	    "run_at": "document_start"
 	}
-    ],
-    "permissions": [
-	"http://dl.dropboxusercontent.com/"
     ]
 }
